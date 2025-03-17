@@ -92,10 +92,9 @@ export const footerLinks = [
   {
     title: "Socials",
     links: [
-      { title: "LinkedIn", url: "https://www.linkedin.com/in/sayed-tabish/" },
-      { title: "Twitter", url: "https://twitter.com/sayedtabish72" },
-      { title: "GitHub", url: "https://github.com/SayedTabish72" },
-      { title: "Portfolio", url: "https://sayedtabish.netlify.app/" },
+      { title: "LinkedIn", url: "#" },
+      { title: "Twitter", url: "#" },
+      { title: "GitHub", url: "#" },
     ],
   },
 ];
